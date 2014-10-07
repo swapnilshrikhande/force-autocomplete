@@ -15,7 +15,7 @@ Simple reusable autocomplete component for force.com
 
 ## License
 
-Copyright (C) 2014 Theopolisme <theopolismewiki@gmail.com>
+Copyright (C) 2014 Swapnil Shrikhande <shrikhande.swapnil@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
